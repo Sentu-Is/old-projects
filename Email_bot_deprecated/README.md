@@ -1,5 +1,7 @@
 🚫 Deprecated - Complete 
 
+❓ Email bot using YAGMAIL and SMTP
+
 🔨 Tools: python 3.x, customtkinter==5.2.2, yagmail==0.15.293
 
 ⚠️ Warning: This program uses local files
