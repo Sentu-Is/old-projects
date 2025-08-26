@@ -1,3 +1,9 @@
+🚫 Deprecated - Complete 
+
+🔨 Tools: python 3.x, customtkinter==5.2.2, yagmail==0.15.293
+
+⚠️ Warning: This program uses local files
+
 
 History - This was for a government sponsored 2 month bootcamp i assisted in 2023 (assisted to 3 at the same time, Game dev, frontend and Python), it was the last proyect i made as a homework
 
