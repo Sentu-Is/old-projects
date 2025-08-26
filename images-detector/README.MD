@@ -1,5 +1,5 @@
 ✅ Working
-🔨 Tools: Python 3.x, customtkinter==5.2.2
+🔨 Tools: python 3.x, numpy==2.3.2, opencv_python==4.12.0.88, pyautogui==0.9.54, pygetwindow==0.0.9, pywin32==311
 ⚠️ Warning: This program uses local files
 
 History -  It was overkill for that time, was my 2nd project in python, i dint know a lot of things about how the computer works and i learned a lot of this project, today i remember it like the most hard project i made (in solitary).
