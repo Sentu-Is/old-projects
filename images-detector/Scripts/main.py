@@ -6,8 +6,8 @@ from screenshoots import Screenshots
 from clickPoint import click
 
 
-screen = Screenshots() #Importante, para que funcione se tiene que poner el titulo de la ventana a capturar, para grabar pantalla dejar vacio - Nota 2025
-clickPoint = click("Nombre.jpg") # <- Imagen a buscar
+screen = Screenshots() #Important, to make it works you need to put the window's title to capture them, if want to record the screen let a blank space- Nota 2025
+clickPoint = click("Nombre.jpg") # <- image to search
 
 
 looptime = time()
