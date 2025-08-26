@@ -1,16 +1,25 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-.env
+# venv
+venv/
+.venv/
+
+# compiling
 __pycache__/
-=======
-__pycache__
-.idea
-build
-dist
-venv
->>>>>>> 87bf874 (Simple calculator)
-=======
-venv
-.idea
-__pycache__
->>>>>>> 1a79085 (Screen images detector and marker)
+*.pyc
+*.pyo
+*.pyd
+
+# Builds and distributions
+build/
+dist/
+*.egg-info/
+
+# IDEs condig
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# enviroment files
+.env
