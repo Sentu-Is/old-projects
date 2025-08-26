@@ -8,4 +8,4 @@ Some old proyects i made in 2023, few of them are incomplete/deprecated and i wi
 | Discord-Bot   | Python        | 2023| ~370           | Working   | my first async/API project - MID |
 | Email-bot     | Python        | 2023| ~70            | Deprecated| for a bootcamp - SUPER EASY      |
 
-> all proyects have a readme.md explaining the history, how works and why i made them. Theres so much more proyects in multiple languages, but they got lost when my ssd broke in 2024 only the python projects folder was saved in onedrive
+> all proyects have a readme.md explaining the history and how works. Theres so much more proyects in multiple languages, but they got lost when my ssd broke in 2024 only the python projects folder was saved in onedrive
