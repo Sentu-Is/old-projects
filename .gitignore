@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 .env
 __pycache__/
+=======
+__pycache__
+.idea
+build
+dist
+venv
+>>>>>>> 87bf874 (Simple calculator)
