@@ -1,0 +1,10 @@
+History - i made some discord bots before this, but this was my first approach to an API endpoint and how api's works, pitifully the albion online's API isnt the best, at least in that time this api had so much performance issues.
+It was too my first time working with lots of information, async format, dictionaries and json format in a practical approach and not only studing the json lib
+
+How it works - First, its an discord bot, so by default its made with async functions, connected by the discord API, it has one command to activate it and a main loop, who updates one time per minute, this main loop sends a 
+GET request to the albion API events endpoint, it is a endpoint who pass all in game events, theres thousands of json lines at the same time. with this GET request the API gives lots of information which is parsed to a some
+useful information to the bot, and when it happend triggers a chain of GET request of each names and items, who the bot can use to make an URL to the official cloud stored images, images who are used to make a collage with 
+them, next to be processed by the BytesIO lib, who transform binaries to images (this endpoint dont have images, have binaries who make images), so with this new image, its displayed in a discord channel automatically being
+treated as an temporal file for its later deletion (this is because when the bot uploads images to discord, saves them in the discord database's, so the bot dont need to hold them to display them to the user)
+
+Why i made it - For fun, because i used to like SO MUCH this game
