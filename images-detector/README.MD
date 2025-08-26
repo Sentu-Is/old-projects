@@ -7,5 +7,3 @@ function who by using openCV matchs the images from screenshots and a local file
 compare them, i dont gonna enter into details about this lib, if its of your interest heres a link for the documentation: "https://opencv.org/blog/read-display-and-write-an-image-using-opencv/"- So, 
 when the images are compared, if its a match it makes a rectangle marking it with the coords who are extracted by opencv and processed by numpy
 
-Why i made it - I made it because i wanted to cheat on albion online, and mmo i used to play a lot, i used to program as a hobby too, so i thought will be funny to try to made a cheat and this was my idea 
-(it works, but not for the propouse i made it)
