@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env
 __pycache__/
 =======
@@ -8,3 +9,8 @@ build
 dist
 venv
 >>>>>>> 87bf874 (Simple calculator)
+=======
+venv
+.idea
+__pycache__
+>>>>>>> 1a79085 (Screen images detector and marker)
