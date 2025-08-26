@@ -1,3 +1,7 @@
+✅ Working
+🔨 Tools: Python 3.x, customtkinter==5.2.2
+⚠️ Warning: This program uses local files
+
 History -  It was overkill for that time, was my 2nd project in python, i dint know a lot of things about how the computer works and i learned a lot of this project, today i remember it like the most hard project i made (in solitary).
 It was my first time optimizing a program, because i was a whole week looking for a way to pass the 0.5 fps treshold, so one day i found on stackoverflow a way to optimize it.
 
