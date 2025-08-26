@@ -2,5 +2,3 @@ History - This calculator was my second python approach, the first time i stop u
   In this age i didnt like to use html/css/js, so i made all interfaces on customtkinter
 
 How works - it works with some string managment and eval abusing, 
-
-Why i made it - for practice
